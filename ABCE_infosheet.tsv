@@ -1,0 +1,77 @@
+name	abbreviation	TaxID	ncbi name	copies	assembly_size	wgd	ploidy	data_source	data_version	comments
+Actinidia chinensis Red5	Ach	3625	Actinidia chinensis	1	553842477	5	2	Ensembl	Red5_PS1_1.69.0	
+Aegilops tauschii	Ata	200361	Aegilops tauschii subsp. strangulata	2	4224915394	2	2	Ensembl	Aet_v4.0	
+Amaranthus hypochondriacus	Ahy	28502	Amaranthus hypochondriacus	2	403889442	4	2	Phytozome	v1.0	
+Amborella trichopoda	Atr	13333	Amborella trichopoda	2	708140920	2	2	Phytozome	v1.0	
+Ananas comosus	Acom	4615	Ananas comosus	1	381905120	3	2	Phytozome	v3	
+Aquilegia coerulea	Acoe	218851	Aquilegia coerulea	2	306516179	3	2	Phytozome	v3.1	
+Arabidopsis halleri	Aha	81970	Arabidopsis halleri	2	195574599	6	2	Phytozome	v2.1.0	
+Arabidopsis lyrata	Aly	59689	Arabidopsis lyrata	2	206667935	6	2	Phytozome	v2.1	
+Arabidopsis thaliana	Ath	3702	Arabidopsis thaliana	2	119667750	6	2	Phytozome	TAIR10	
+Beta vulgaris	Bvu	3555	Beta vulgaris subsp. vulgaris	2	566181630	3	2	Ensembl	RefBeet-1.2.2	
+Boechera stricta	Bstricta	72658	Boechera stricta	1	189344188	3	2	Phytozome	v1.2	
+Brachypodium distachyon	Bdi	15368	Brachypodium distachyon	5	271163419	2	2	Phytozome	V3.1	
+Brachypodium stacei	Bstacei	1071399	Brachypodium stacei	4	234142426	2	2	Phytozome	v1.1	
+Brassica napus	Bna	3708	Brassica napus	8	848200303	6	4	Ensembl	AST_PRJEB5043_v1	
+Brassica oleracea	Bol	3712	Brassica oleracea	3	385006588	6	2	Phytozome	v1.0	
+Brassica rapa	Bra	3711	Brassica rapa	5	315053614	6	2	Phytozome	FPsc v1.3	
+Capsella grandiflora	Cgr	264402	Capsella grandiflora	2	105346052	6	2	Phytozome	v1.1	
+Capsella rubella	Cru	81985	Capsella rubella	4	134834574	6	2	Phytozome	v1.0	Assembly 1, annotation 1.1 in phyotozome
+Cardamine hirsuta	Chi	50463	Cardamine hirsuta	1	198654690	6	2	Gan et al., 2016	MIPS_CARH_v3.8	
+Chlamydomonas reinhardtii	Cre	3055	Chlamydomonas reinhardtii	1	111100715	1	1	Phytozome	v5.5	Assembly 5.0, annotation 5.6 in phytozome
+Citrus clementina	Ccl	85681	Citrus x clementina	2	301386998	3	2	Phytozome	v1.0	
+Citrus sinensis	Csi	2711	Citrus sinensis	1	319231331	3	2	Phytozome	v1.1	
+Corchorus capsularis	Cca	210143	Corchorus capsularis	1	317178409	3	2	Ensembl	CCACVL1_1.0	
+Cucumis sativus	Csa	3659	Cucumis sativus	1	203058019	3	2	Phytozome	v1.0	
+Daucus carota	Dca	4039	Daucus carota	1	421502825	3	2	Phytozome	v2.0	
+Dioscorea rotundata	Dro	55577	Dioscorea cayenensis subsp. rotundata	1	456674974	4	2	Ensembl	TDr96_F1_Pseudo_Chromosome_v1.0	
+Erythranthe guttata	Egu	4155	Erythranthe guttata	2	312749872	4	2	Phytozome	v2.0	Also known as Mimulus guttatus
+Eucalyptus grandis	Egr	71139	Eucalyptus grandis	1	691346258	4	2	Phytozome	v2.0	
+Eutrema salsugineum	Esa	72664	Eutrema salsugineum	2	243117811	3	2	Phytozome	v1.0	
+Glycine max	Gma	3847	Glycine max	1	1011128777	5	2	Phytozome	v2.0	
+Gossypium raimondii	Gra	29730	Gossypium raimondii	1	761406121	3	2	Phytozome	v2.1	
+Helianthus annuus	Han	4232	Helianthus annuus	2	3027844889	3	2	Ensembl	HanXRQr1.0	
+Hordeum vulgare	Hvu	112509	Hordeum vulgare subsp. vulgare	2	4834432680	2	2	Ensembl	IBSC_v2	
+Kalanchoe fedtschenkoi	Kfe	63787	Kalanchoe fedtschenkoi	1	256351415	4	2	Phytozome	v1.1	
+Kalanchoe laxiflora	Kla	1670617	Kalanchoe laxiflora	2	422007907	4	2	Phytozome	v1.1	
+Linum usitatissimum	Lus	4006	Linum usitatissimum	2	318250901	4	2	Phytozome	v1.0	
+Lupinus angustifolius	Lan	3871	Lupinus angustifolius	2	609203021	5	2	Ensembl	LupAngTanjil_v1.0	
+Manihot esculenta	Mes	3983	Manihot esculenta	2	582281492	4	2	Phytozome	v6.1	
+Marchantia polymorpha	Mpo	3197	Marchantia polymorpha	1	225761139	0	1	Phytozome	v3.1	
+Medicago truncatula	Mtr	3880	Medicago truncatula	3	411831487	3	2	Phytozome	Mt4.0v1	
+Micromonas sp. RCC299	Msp	296587	Micromonas commoda	1	20989326	0	1	Phytozome	v3.0	
+Musa acuminata	Mac	4641	Musa acuminata	3	472960417	5	2	Phytozome	v1	
+Nicotiana attenuata	Nat	49451	Nicotiana attenuata	1	2365682703	4	2	Ensembl	NIATTr2	
+Nicotiana benthamiana	Nbe	4100	Nicotiana benthamiana	2	2926135461	4	4	Kourelis et al. 2019	v1.0.1	used new assembly: 10.1093/pcp/pcac168 , Kurotani et al 2023
+Nicotiana tabacum	Nta	4097	Nicotiana tabacum	1	3643471356	4	4	solgenomics.net	TN90 protein sequences	
+Oropetium thomaeum	Oth	1148796	Oropetium thomaeum	1	243174629	3	2	Phytozome	v1.0	
+Oryza brachyantha	Obr	4533	Oryza brachyantha	2	260838168	5	2	Ensembl	v1.4b	
+Oryza glaberrima	Ogl	4538	Oryza glaberrima	2	316419574	5	2	Ensembl	V1	
+Oryza longistaminata	Olo	4528	Oryza longistaminata	2	326442508	5	2	Ensembl	v1.0	
+Oryza sativa Japonica Group	OsaJ	39947	Oryza sativa Japonica Group	2	374471240	5	2	Phytozome	v7_JGI	
+Ostreococcus lucimarinus	Olu	436017	Ostreococcus lucimarinus CCE9901	2	13204888	0	1	Phytozome	v2.0	
+Panicum hallii ecotype FIL2	Pha	206008	Panicum hallii	2	535889049	5	2	Ensembl	PHallii_v3.1	
+Panicum virgatum	Pvi	38727	Panicum virgatum	4	1119427664	5	4	Phytozome	v1.1	DAC6 HAP1 v1.1
+Phaseolus vulgaris	Pvu	3885	Phaseolus vulgaris	1	537218636	4	2	Phytozome	v2.1	
+Physcomitrella patens	Ppa	3218	Physcomitrium patens	2	473226588	1	1	Phytozome	v3.3	
+Populus trichocarpa	Ptr	3694	Populus trichocarpa	2	434134862	4	2	Phytozome	v3.0	
+Prunus persica	Ppe	3760	Prunus persica	3	227411381	3	2	Phytozome	v2.1	
+Ricinus communis	Rco	3988	Ricinus communis	1	350631014	3	2	Phytozome	v0.1	
+Salix purpurea	Spu	77065	Salix purpurea	2	475450847	4	2	Phytozome	v1.0	
+Setaria italica	Sit	4555	Setaria italica	2	405737341	5	2	Phytozome	v2.2	
+Setaria viridis	Svi	4556	Setaria viridis	2	394903069	5	2	Phytozome	v1.1	
+Solanum lycopersicum	Sly	4081	Solanum lycopersicum	1	823944041	4	2	Phytozome	iTAG2.4	
+Solanum tuberosum	Stu	4113	Solanum tuberosum	1	773029432	4	2	Phytozome	v4.03	
+Sorghum bicolor	Sbi	4558	Sorghum bicolor	2	708863705	5	2	Phytozome	v3.1.1	
+Sphagnum fallax	Sfa	53036	Sphagnum fallax	2	396445631	1	1	Phytozome	v0.5	
+Spirodela polyrhiza	Spo	29656	Spirodela polyrhiza	1	145199413	3	2	Phytozome	v2	
+Theobroma cacao	Tca	3641	Theobroma cacao	1	346164918	3	2	Phytozome	v1.1	
+Trifolium pratense	Tpr	57577	Trifolium pratense	2	345990850	3	2	Phytozome	v2	
+Triticum aestivum	Tae	4565	Triticum aestivum	8	14547261565	2	6	Ensembl	IWGSC	
+Triticum dicoccoides	Tdi	85692	Triticum dicoccoides	4	10079039394	2	4	Ensembl	WEWSeq_v.1.0	
+Vigna angularis	Van	3914	Vigna angularis	1	466744453	3	2	Ensembl	Vigan1.1	
+Vigna radiata	Vra	3916	Vigna radiata var. radiata	1	463085359	3	2	Ensembl	Vradiata_ver6	
+Vitis vinifera	Vvi	29760	Vitis vinifera	1	486198630	3	2	Phytozome	Genoscope.12X	
+Volvox carteri	Vca	3067	Volvox carteri	1	131163211	0	1	Phytozome	v2.1	
+Zea mays Ensembl-18	Zmays	4577	Zea mays	2	2155598649	5	2	Phytozome	AGPv3 	
+Zostera marina	Zmarina	29655	Zostera marina	1	203913826	2	2	Phytozome	v2.2	
