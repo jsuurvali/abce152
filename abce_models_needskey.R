@@ -9,7 +9,6 @@ library(patchwork)
 library(nlme)
 library(taxize)
 library(ape)
-library(ggplot2)
 library(ggeffects)
 
 
