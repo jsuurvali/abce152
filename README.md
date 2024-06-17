@@ -1,7 +1,11 @@
 # Plant ABCE proteins and their copy numbers
-This repository covers phylogenetic and regression analysis of 152 ABCE proteins from 76 plant species. It is part of a study currently available at [bioRxiv](https://doi.org/10.1101/2023.09.29.560150).
+**This repository covers phylogenetic and regression analysis of 152 ABCE proteins from 76 plant species.**
 
-In addition to the analysis scripts themselves, source data used for the paper (alignments and annotations) and output trees are also included.
+The full study is published in _Frontiers in Genetics_ at https://doi.org/10.3389/fgene.2024.1408665.
+
+In addition to the analysis scripts themselves, the repository also contains source data (alignments and annotations) and output trees.
+
+
 
 ## Source data
 - fasta/152 CDS FULL_correct.fas
